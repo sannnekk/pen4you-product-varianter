@@ -1,0 +1,13 @@
+{
+  "prettier.tabWidth": 4,
+  "editor.detectIndentation": false,
+  "[csharp]": {
+    "editor.defaultFormatter": ""
+},
+"prettier.useTabs": true,
+"editor.formatOnType": true,
+"csharp.format.enable": true,
+"csharp.inlayHints.parameters.enabled": false,
+"omnisharp.organizeImportsOnFormat": true,
+"omnisharp.useEditorFormattingSettings": true
+}
